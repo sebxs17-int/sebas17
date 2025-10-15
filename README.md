@@ -1,5 +1,5 @@
 
-# 👋 Hola, soy Sebastián Useche (aka `sebxs17-int`)
+# 👋 Hola, soy Sebastián Useche 
 
 💻 **Profesional en formación en Ciberseguridad y Cloud Security**  
 🔐 Apasionado por el **Red Team, el hacking ético y la seguridad ofensiva en la nube**.  
@@ -41,7 +41,6 @@
 ---
 
 ## 📫 Conecta conmigo
-- 💼 [LinkedIn](www.linkedin.com/in/sebastián-useche-00916329b)  
 - 🌐 [GitHub Portafolio](https://github.com/sebxs17-int/Portafolio-Cybersecurity.git)  
  
 
