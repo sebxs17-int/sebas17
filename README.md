@@ -89,4 +89,4 @@ Busco siempre aprender, crear y compartir conocimiento que inspire a otros a ir 
 - GitHub: [sebxs17-int](https://github.com/sebxs17-int)  
 - LinkedIn: [Sebastián Useche](#)
 
-© 2025 **Astheroid Industries**. Todos los derechos reservados.
+© 2025 **Astheroid**. Todos los derechos reservados.
